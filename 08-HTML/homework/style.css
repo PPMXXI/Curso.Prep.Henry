@@ -1,0 +1,23 @@
+h1 {
+	color: rosybrown;
+}
+			
+
+img {
+	width: 400px;
+}
+
+#thirdDiv {
+	height: 600xp;
+	width: 500xp;
+	background: black;
+	padding: 50px;
+	border: 10px solid green;
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+
+
